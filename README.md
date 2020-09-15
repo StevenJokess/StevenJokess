@@ -84,6 +84,9 @@ Dive into Deep Learning (translated chapter_generative-adversarial-networks from
 <a href=https://github.com/dltech-xyz/d2l-en-read/blob/master/My%20contribution/Snipaste_2020-09-13_19-03-15.jpg>
   <img align="center" src="https://github.com/dltech-xyz/d2l-en-read/blob/master/My%20contribution/Snipaste_2020-09-13_19-03-15.jpg"/>
 </a>
+<a href=https://github.com/dltech-xyz/d2l-en-read/blob/master/My%20contribution/Snipaste_2020-09-13_20-09-25.jpg>
+  <img align="center" src="https://github.com/dltech-xyz/d2l-en-read/blob/master/My%20contribution/Snipaste_2020-09-13_20-09-25.jpg"/>
+</a>
   
  </details>
  
