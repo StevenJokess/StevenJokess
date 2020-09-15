@@ -75,8 +75,8 @@ Dive into Deep Learning (translated chapter_generative-adversarial-networks from
 
 <details>
 <summary>Expand: More About Me...</summary>
-  ![StevenJokes](https://github.com/StevenJokess/StevenJokess/blob/master/prove.jpg) 
-  ![contribution](https://github.com/StevenJokess/StevenJokess/blob/master/old%20me.jpg)
+ - ![StevenJokes](https://github.com/StevenJokess/StevenJokess/blob/master/prove.jpg) 
+ - ![contribution](https://github.com/StevenJokess/StevenJokess/blob/master/old%20me.jpg)
 
 
  </details>
