@@ -47,7 +47,7 @@ summary:https://github.com/Jhingun1/Jhingun1
 - 🌱 I’m currently learning :[Dive into Deep Learning](http://preview.d2l.ai/d2l-en/master/)
 - 😄 I’m currently watching : [Street Dance of China](https://www.youtube.com/watch?v=TDRpPtKkVn8)
 - 🔭 I’m currently working on :[Build a DL app](https://www.youtube.com/watch?v=O_2KBhkIvnc)
-- 📫 I’m currently hunting for a PM job :[Resume 求职简历](https://github.com/StevenJokess/StevenJokess/blob/master/1593844414259.png)
+- 📫 I’m currently hunting for a PM job :[Resume 求职简历](https://github.com/StevenJokess/StevenJokess/blob/master/1593844414259.png) 
 - 👋 I’m currently unhappy :[Make a friend by telemgram](https://t.me/StevenJokes)
 
 ---
@@ -58,6 +58,7 @@ Dive into Deep Learning (translated chapter_generative-adversarial-networks from
 - Now I'm blocked from d2l-ai and discuss.d2l.ai
 - My contribution: https://github.com/dltech-xyz/d2l-en-read/tree/master/My%20contribution
 - My discussion: https://github.com/dltech-xyz/d2l-en-read/tree/master/discuss
+- old me 旧帐号: https://github.com/StevenJokes [contribution](https://github.com/StevenJokess/StevenJokess/blob/master/old%20me.jpg)
 
 <a href=https://github.com/StevenJokess/paddlelite-andriod-demo>
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokess&repo=paddlelite-andriod-demo&theme=tokyonight&line_height=13"/>
