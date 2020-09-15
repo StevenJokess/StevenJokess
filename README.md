@@ -29,7 +29,7 @@ summary:https://github.com/Jhingun1/Jhingun1
  <p align="center"> 
 
 <a href=https://blog.dltech.xyz/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenJokes&theme=tokyonight&layout=compact&line_height=27" width="340"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenJokess&theme=tokyonight&layout=compact&line_height=27" width="340"/>
 </a>
 
 - 🌈 [My blog](https://blog.dltech.xyz/)
@@ -41,7 +41,7 @@ summary:https://github.com/Jhingun1/Jhingun1
 ---
 
 <a href=https://blog.dltech.xyz/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=StevenJokes&show_icons=true&theme=tokyonight&include_all_commits=true" width="340" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=StevenJokess&show_icons=true&theme=tokyonight&include_all_commits=true" width="340" />
 </a>
 
 - 🌱 I’m currently learning :[Dive into Deep Learning](http://preview.d2l.ai/d2l-en/master/)
