@@ -81,6 +81,10 @@ Dive into Deep Learning (translated chapter_generative-adversarial-networks from
 <a href=https://github.com/StevenJokess/StevenJokess/blob/master/old%20me.jpg>
   <img align="center" src="https://github.com/StevenJokess/StevenJokess/blob/master/old%20me.jpg"/>
 </a>
+<a href=https://github.com/dltech-xyz/d2l-en-read/blob/master/My%20contribution/Snipaste_2020-09-13_19-03-15.jpg>
+  <img align="center" src="https://github.com/dltech-xyz/d2l-en-read/blob/master/My%20contribution/Snipaste_2020-09-13_19-03-15.jpg"/>
+</a>
+  
  </details>
  
  <p align="center"> "Code is cheap. Show me the friendly product" &nbsp;&nbsp;&nbsp; -- Steven Jokes(s)  </p>
