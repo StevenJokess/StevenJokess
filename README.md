@@ -59,16 +59,16 @@ Dive into Deep Learning (translated chapter_generative-adversarial-networks from
 - My contribution: https://github.com/dltech-xyz/d2l-en-read/tree/master/My%20contribution
 - My discussion: https://github.com/dltech-xyz/d2l-en-read/tree/master/discuss
 
-<a href=https://github.com/StevenJokes/paddlelite-andriod-demo>
+<a href=https://github.com/StevenJokess/paddlelite-andriod-demo>
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokess&repo=paddlelite-andriod-demo&theme=tokyonight&line_height=13"/>
 </a>
-<a href=https://github.com/StevenJokes/djl-android-demo>
+<a href=https://github.com/StevenJokess/djl-android-demo>
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokess&repo=djl-android-demo&theme=tokyonight&line_height=13"/>
 </a>
-<a href=https://github.com/StevenJokes/pytorch-andriod-demo>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokess&repo=pytorch-andriod-demo&theme=tokyonight&line_height=13"/>
+<a href=https://github.com/StevenJokess/pytorch-andriod-greatdemo>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokess&repo=pytorch-andriod-greatdemo&theme=tokyonight&line_height=13"/>
 </a>
-<a href=https://github.com/StevenJokes/Pytorch-Kotlin-Demo>
+<a href=https://github.com/StevenJokess/Pytorch-Kotlin-Demo>
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokess&repo=Pytorch-Kotlin-Demo&theme=tokyonight&line_height=13"/>
 </a>
 
