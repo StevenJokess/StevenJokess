@@ -1,3 +1,4 @@
+<!--
 **StevenJokes/StevenJokes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
 Here are some ideas to get you started:
@@ -76,5 +77,5 @@ Dive into Deep Learning (translated chapter_generative-adversarial-networks from
 
  </details>
  
- <p align="center"> "Code is cheap. Show me the friendly product" &nbsp;&nbsp;&nbsp; -- Steven Jokes  </p>
- <p align="center"> "I survive just for AI. Now I can't find any meaning for my life." &nbsp;&nbsp;&nbsp; -- Steven Jokes  </p>
+ <p align="center"> "Code is cheap. Show me the friendly product" &nbsp;&nbsp;&nbsp; -- Steven Jokes(s)  </p>
+ <p align="center"> "I survive just for AI. Now I can't find any meaning for my life." &nbsp;&nbsp;&nbsp; -- Steven Jokes(s)  </p>
