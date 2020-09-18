@@ -50,7 +50,7 @@ summary:https://github.com/Jhingun1/Jhingun1
 - 🌱 I’m currently learning :[Dive into Deep Learning](http://preview.d2l.ai/d2l-en/master/)
 - 😄 I’m currently watching : [Street Dance of China](https://www.youtube.com/watch?v=TDRpPtKkVn8)
 - 🔭 I’m currently working on :[Build a DL app](https://www.youtube.com/watch?v=O_2KBhkIvnc)
-- 📫 I’m currently hunting for a PM job :[Resume 求职简历](https://github.com/StevenJokess/StevenJokess/blob/master/1593844414259.png) 
+- 📫 I’m currently hunting for a PM job :[Resume 求职简历](https://github.com/StevenJokess/StevenJokess/blob/master/resume_new.jpg) 
 - 👋 I’m currently unhappy :[Make a friend by telemgram](https://t.me/StevenJokes)
 
 ---
@@ -89,7 +89,9 @@ Dive into Deep Learning (translated chapter_generative-adversarial-networks from
 <a href=https://github.com/dltech-xyz/d2l-en-read/blob/master/My%20contribution/Snipaste_2020-09-13_20-09-25.jpg>
   <img align="center" src="https://github.com/dltech-xyz/d2l-en-read/blob/master/My%20contribution/Snipaste_2020-09-13_20-09-25.jpg"/>
 </a>
-  
+<a href=https://github.com/dltech-xyz/d2l-en-read/blob/master/My%20contribution/Snipaste_2020-09-13_20-09-25.jpg>
+  <img align="center" src="https://github.com/StevenJokess/StevenJokess/blob/master/resume_new.jpg"/>
+</a>
 
  
  <p align="center"> "Code is cheap. Show me the friendly product" &nbsp;&nbsp;&nbsp; -- Steven Jokes(s)  </p>
