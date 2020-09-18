@@ -17,6 +17,9 @@ read:https://github.com/anuraghazra/github-readme-stats to furnish your github!
 - 😄 I’m currently watching : [Street Dance of China](https://www.youtube.com/playlist?list=PLl0fCInDL_WHHIaXGAe2U7ryKD_SAkiXU)
 - 
 summary:https://github.com/Jhingun1/Jhingun1
+<details>
+<summary>Expand: More About Me(StevenJokes)...</summary>
+   </details>
 -->
 
 <p align="center"> 
@@ -73,8 +76,7 @@ Dive into Deep Learning (translated chapter_generative-adversarial-networks from
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokess&repo=Pytorch-Kotlin-Demo&theme=tokyonight&line_height=13"/>
 </a>
 
-<details>
-<summary>Expand: More About Me(StevenJokes)...</summary>
+
 <a href=https://github.com/StevenJokess/StevenJokess/blob/master/prove.jpg>
   <img align="center" src="https://github.com/StevenJokess/StevenJokess/blob/master/prove.jpg"/>
 </a>
@@ -88,7 +90,7 @@ Dive into Deep Learning (translated chapter_generative-adversarial-networks from
   <img align="center" src="https://github.com/dltech-xyz/d2l-en-read/blob/master/My%20contribution/Snipaste_2020-09-13_20-09-25.jpg"/>
 </a>
   
- </details>
+
  
  <p align="center"> "Code is cheap. Show me the friendly product" &nbsp;&nbsp;&nbsp; -- Steven Jokes(s)  </p>
  <p align="center"> "I survive just for AI. Now I can't find any meaning for my life." &nbsp;&nbsp;&nbsp; -- Steven Jokes(s)  </p>
