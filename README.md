@@ -78,7 +78,7 @@ Dive into Deep Learning (translated chapter_generative-adversarial-networks from
 
 
 <a href=https://github.com/StevenJokess/StevenJokess/blob/master/prove.jpg>
-  <img align="center" src="https://github.com/StevenJokess/StevenJokess/blob/master/prove.jpg"/>
+  <img align="center" src="https://github.com/StevenJokess/StevenJokess/blob/master/prove0.jpg"/>
 </a>
 <a href=https://github.com/StevenJokess/StevenJokess/blob/master/old%20me.jpg>
   <img align="center" src="https://github.com/StevenJokess/StevenJokess/blob/master/old%20me.jpg"/>
