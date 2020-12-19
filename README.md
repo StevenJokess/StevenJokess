@@ -45,6 +45,7 @@ summary:https://github.com/Jhingun1/Jhingun1
 
 ---
 
+
 <a href=https://blog.dltech.xyz/>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=StevenJokess&show_icons=true&theme=tokyonight&include_all_commits=true" width="340" />
 </a>
@@ -54,6 +55,15 @@ summary:https://github.com/Jhingun1/Jhingun1
 - 🔭 I’m currently working on :[Build a DL app](https://www.youtube.com/watch?v=O_2KBhkIvnc)
 - 📫 I’m currently hunting for a PM job :[Resume 求职简历](https://blog.dltech.xyz/post/jian-li/) 
 - 👋 I’m currently unhappy :[Make a friend by telemgram](https://t.me/StevenJokes)
+
+---
+
+#### Language and Packages
+<p>  
+   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
+   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+</p>
 
 ---
 
