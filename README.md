@@ -31,7 +31,7 @@ summary:https://github.com/Jhingun1/Jhingun1
   <a href="mailto:llgg8679@qq.com"><img src="https://img.shields.io/badge/email-welcome-ffffff.svg?style=social" width="121px" alt="Email"></a>
  <p align="center"> 
 
-## [求职AI产品经理，点击见简历](https://blog.dltech.xyz/post/jian-li/) 
+## [求职AI产品经理，点击见简历](https://blog.dltech.xyz/post/jian-li/)  哭了，快来啊，工作，没钱活不下去了，在这样我要疯了
 
 <a href=https://blog.dltech.xyz/>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenJokess&theme=tokyonight&layout=compact&line_height=27" width="340"/>
