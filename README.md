@@ -33,6 +33,9 @@ summary:https://github.com/Jhingun1/Jhingun1
 
 ## [求职AI产品经理，点击见简历](https://blog.dltech.xyz/post/jian-li/)  失业的第400天，我是个无脑接盘AI的傻逼，活该饿死我。
 
+Why do you code? Do you really change the world?
+---
+
 (WIP) Dive into cheap deep learning : https://aieye-top.github.io/d2cl/
 <a href=https://blog.dltech.xyz/>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenJokess&theme=tokyonight&layout=compact&line_height=27" width="340"/>
