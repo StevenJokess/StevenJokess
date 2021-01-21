@@ -31,7 +31,7 @@ summary:https://github.com/Jhingun1/Jhingun1
   <a href="mailto:llgg8679@qq.com"><img src="https://img.shields.io/badge/email-welcome-ffffff.svg?style=social" width="121px" alt="Email"></a>
  <p align="center"> 
 
-## [求职AI产品经理，点击见简历](https://blog.dltech.xyz/post/jian-li/)  我是个无脑接盘AI的傻逼。
+## [求职AI产品经理，点击见简历](https://blog.dltech.xyz/post/jian-li/)  我是个无脑接盘AI的傻逼，活该饿死我。
 
 (WIP) Dive into cheap deep learning : https://aieye-top.github.io/d2cl/
 <a href=https://blog.dltech.xyz/>
