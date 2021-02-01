@@ -33,7 +33,7 @@ summary:https://github.com/Jhingun1/Jhingun1
 
 ## [求职AI产品经理，点击见简历](https://blog.dltech.xyz/post/jian-li/)  失业的第400天，我是个无脑接盘AI的傻逼，活该饿死我。
 
-Why do you code? Do you really change the world?
+Why do you code? Do you really change the world? Life is just a lie in which we fxxx.
 ---
 
 (WIP) Dive into cheap deep learning : https://aieye-top.github.io/d2cl/
