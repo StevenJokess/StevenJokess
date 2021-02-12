@@ -31,7 +31,7 @@ summary:https://github.com/Jhingun1/Jhingun1
   <a href="mailto:llgg8679@qq.com"><img src="https://img.shields.io/badge/email-welcome-ffffff.svg?style=social" width="121px" alt="Email"></a>
  <p align="center"> 
 
-## [求职AI产品经理，点击见简历](https://blog.dltech.xyz/post/jian-li/)  失业的第415天，我是个无脑接盘AI的傻逼，活该饿死我。
+## [求职AI产品经理，点击见简历](http://stevenjokess.github.io//post/jian-li/)  失业的第415天，我是个无脑接盘AI的傻逼，活该饿死我。
 
 Why do you code? Do you really change the world? Life is just a lie in which we fxxx.
 ---
@@ -41,7 +41,7 @@ Why do you code? Do you really change the world? Life is just a lie in which we 
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenJokess&theme=tokyonight&layout=compact&line_height=27" width="340"/>
 </a>
 
-- 🌈 [My blog](https://blog.dltech.xyz/)
+- 🌈 [My blog](http://stevenjokess.github.io/)
 - 💬 Ask something about [Deep Learning](http://discuss.d2l.ai)
 - ⚡ [Recommend 111 books I have read this year](https://weread.qq.com/misc/booklist/358906697_7e9fYZVah)
 - 🤔 [Furnish your github!](https://github.com/anuraghazra/github-readme-stats)
@@ -57,7 +57,7 @@ Why do you code? Do you really change the world? Life is just a lie in which we 
 - 🌱 I’m currently learning :[Dive into Deep Learning](http://preview.d2l.ai/d2l-en/master/)
 - 😄 I’m currently watching : [Street Dance of China](https://www.youtube.com/watch?v=TDRpPtKkVn8)
 - 🔭 I’m currently working on :[Build a DL app](https://www.youtube.com/watch?v=O_2KBhkIvnc)
-- 📫 I’m currently hunting for a PM job :[Resume 求职简历](https://blog.dltech.xyz/post/jian-li/) 
+- 📫 I’m currently hunting for a PM job :[Resume 求职简历](http://stevenjokess.github.io/post/jian-li/) 
 - 👋 I’m currently unhappy :[Make a friend by telemgram](https://t.me/StevenJokes)
 
 ---
