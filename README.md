@@ -37,6 +37,7 @@ Why do you code? Do you really change the world? Life is just a lie in which we 
 ---
 
 (WIP) Dive into cheap deep learning : https://aieye-top.github.io/d2cl/
+(WIP) To be a product manager, not a 2B PM: https://stevenjokess.github.io/2bPM/
 <a href=https://blog.dltech.xyz/>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenJokess&theme=tokyonight&layout=compact&line_height=27" width="340"/>
 </a>
