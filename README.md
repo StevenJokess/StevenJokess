@@ -31,7 +31,7 @@ summary:https://github.com/Jhingun1/Jhingun1
   <a href="mailto:llgg8679@qq.com"><img src="https://img.shields.io/badge/email-welcome-ffffff.svg?style=social" width="121px" alt="Email"></a>
  <p align="center"> 
 
-## [求职AI产品经理，点击见简历](http://stevenjokess.github.io/post/jian-li/)  失业的第420天，我是个无脑接盘AI的傻逼，活该饿死我。
+## [求职AI产品经理，点击见简历](https://stevenjokess.github.io/2bPM/get_started.html)  失业的第420天，我是个无脑接盘AI的傻逼，活该饿死我。
 
 Why do you code? Do you really change the world? Life is just a lie in which we fxxx.
 ---
