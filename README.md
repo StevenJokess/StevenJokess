@@ -23,7 +23,7 @@ summary:https://github.com/Jhingun1/Jhingun1
 -->
 
 <p align="center"> 
-  <img src="https://img.shields.io/github/followers/StevenJokes?label=Followers" width="103px" alt="github follow" />
+  <img src="https://img.shields.io/github/followers/StevenJokess?label=Followers" width="103px" alt="github follow" />
   <img src="https://komarev.com/ghpvc/?username=StevenJokes" width="129px" alt="profile views" /> 
   <a href="https://twitter.com/Steven72815911"><img src="https://img.shields.io/twitter/follow/Steven72815911?label=Twitter&style=social" width="103px" alt="Twitter"></a>
   <a href="https://www.zhihu.com/people/Steven_Jokes"><img src="https://img.shields.io/badge/知乎--_.svg?style=social&logo=zhihu" width="63px" alt="知乎"></a>
