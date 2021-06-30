@@ -72,8 +72,8 @@ summary:https://github.com/Jhingun1/Jhingun1
 ---
 
 Dive into Deep Learning (translated chapter_generative-adversarial-networks from MXnet to PyTorch, helped by [AnirudhDagar](https://github.com/AnirudhDagar)):
-- [GAN](http://preview.d2l.ai/d2l-en/PR-1716/chapter_generative-adversarial-networks/gan.html) ,[PyTorch PR](https://github.com/d2l-ai/d2l-en/pull/1358) and [fix PR](https://github.com/d2l-ai/d2l-en/pull/1400), [TF2 PR](https://github.com/d2l-ai/d2l-en/pull/1716)
-- [DCGAN](http://preview.d2l.ai/d2l-en/master/chapter_generative-adversarial-networks/dcgan.html) ,[PR(can't see)](https://github.com/d2l-ai/d2l-en/pull/1309) 、[PR(you can check)](https://github.com/smolix/d2l-en-rl/commit/a7ea3e2f72d84fc1d4ca1c2a4d0b772c2a4325b5) and [fix PR](https://github.com/d2l-ai/d2l-en/pull/1422)
+- [GAN](http://preview.d2l.ai/d2l-en/PR-1716/chapter_generative-adversarial-networks/gan.html) ,[PyTorch PR(unavailable)](https://github.com/d2l-ai/d2l-en/pull/1358) [PyTorch PR(available)](https://github.com/smolix/d2l-en-rl/commit/4d88c000318ac5103a0b50738da9dc202af7995a)and [fix PR](https://github.com/d2l-ai/d2l-en/pull/1400);[TF2 PR](https://github.com/d2l-ai/d2l-en/pull/1716)
+- [DCGAN](http://preview.d2l.ai/d2l-en/master/chapter_generative-adversarial-networks/dcgan.html) ,[PR(unavailable)](https://github.com/d2l-ai/d2l-en/pull/1309) 、[PR(available)](https://github.com/smolix/d2l-en-rl/commit/a7ea3e2f72d84fc1d4ca1c2a4d0b772c2a4325b5) and [fix PR](https://github.com/d2l-ai/d2l-en/pull/1422)
 - Now I'm blocked from d2l-ai and discuss.d2l.ai
 - My contribution: https://github.com/dltech-xyz/d2l-en-read/tree/master/My%20contribution
 - My discussion: https://github.com/dltech-xyz/d2l-en-read/tree/master/discuss
