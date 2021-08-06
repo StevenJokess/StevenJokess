@@ -31,8 +31,8 @@ summary:https://github.com/Jhingun1/Jhingun1
   <a href="mailto:llgg8679@qq.com"><img src="https://img.shields.io/badge/email-welcome-ffffff.svg?style=social" width="121px" alt="Email"></a>
  <p align="center"> 
 
-## [Hunt AI+Finance PM, check for my resume](https://stevenjokess.github.io/2bPM/get_started.html)  No income（590 days)
-
+## [全世界无产者，联合起来!：AI时代批判与GONGCHHAN主义意识形态输出](https://stevenjokess.github.io/2bPM/AI_critical.html)
+    
 ---
 - (WIP) To be a product manager, not a 2B PM: **https://stevenjokess.github.io/2bPM/**
 - (WIP) Dive into cheap deep learning : https://aieye-top.github.io/d2cl/
