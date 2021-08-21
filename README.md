@@ -31,7 +31,7 @@ summary:https://github.com/Jhingun1/Jhingun1
   <a href="mailto:llgg8679@qq.com"><img src="https://img.shields.io/badge/email-welcome-ffffff.svg?style=social" width="121px" alt="Email"></a>
  <p align="center"> 
 
-## [全世界无产者，联合起来!：AI时代批判与GONGCHHAN主义意识形态输出](https://stevenjokess.github.io/2bPM/AI_critical.html)
+## [Workers of all lands, Unite! 全世界无产者，联合起来!：AI时代批判与GONGCHHAN主义意识形态输出](https://stevenjokess.github.io/2bPM/AI_critical.html)
     
 ---
 - (WIP) To be a product manager, not a 2B PM: **https://stevenjokess.github.io/2bPM/**
